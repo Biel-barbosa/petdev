@@ -1,36 +1,26 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🐾 Pet Dev Landing Page
 
-## Getting Started
+Landing page moderna e responsiva desenvolvida com **Next.js**, **TypeScript**, **Tailwind CSS** e **ShadCN UI**.  
+Feita com foco em performance, design limpo e uma excelente experiência de usuário para o universo pet! 🐶💻
 
-First, run the development server:
+🔗 Acesse o projeto online: [https://petdev-pink.vercel.app](https://petdev-pink.vercel.app)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 Tecnologias Utilizadas
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Next.js** – framework React para aplicações rápidas e escaláveis
+- **TypeScript** – tipagem estática para mais segurança no código
+- **Tailwind CSS** – estilização moderna e responsiva com classes utilitárias
+- **ShadCN UI** – biblioteca de componentes acessíveis, com base em Radix UI
+- **Lucide Icons** – ícones leves e elegantes
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 📚 O que foi trabalhado
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Estrutura com **App Router** do Next.js
+- Componentização com **ShadCN UI**
+- Layout responsivo com **Tailwind CSS**
+- SEO básico com tags `meta`
+- Experiência fluida e otimizada para dispositivos móveis
